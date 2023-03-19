@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore disks_test.hpp and rubrictest.hpp files
+disks_test.cpp
+rubrictest.hpp
